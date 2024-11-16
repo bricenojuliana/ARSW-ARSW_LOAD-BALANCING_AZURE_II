@@ -1,6 +1,9 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
 
+# INTEGRANTES
+## Juliana Briceño y Cristian Alvarez
+
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
 ### Dependencias
